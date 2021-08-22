@@ -1,0 +1,8 @@
+DIRECCION IP PUBLICA: 152.169.250.143
+DIRECCION IP PRIVADA: 192.168.0.161
+MASCARA DE SUBRED: 255.255.255.0
+DIRECCION MAC: a4:83:e7:59:96:ed
+
+La IP privada es de clase C
+
+La marcad e la placa de red es Apple, Inc
